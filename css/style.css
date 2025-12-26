@@ -1,0 +1,31 @@
+body {
+  font-family: Arial, sans-serif;
+  text-align: center;
+  background: #f0fff0;
+}
+
+h1 {
+  color: #2e8b57;
+}
+
+button {
+  padding: 10px 20px;
+  margin: 8px;
+  font-size: 16px;
+  cursor: pointer;
+}
+
+#question-image {
+  width: 300px;
+  margin: 20px;
+}
+
+#choices button {
+  display: block;
+  margin: 10px auto;
+  width: 200px;
+}
+
+.hidden {
+  display: none;
+}
