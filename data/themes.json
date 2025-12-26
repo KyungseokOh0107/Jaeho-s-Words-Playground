@@ -1,0 +1,10 @@
+{
+  "dino": {
+    "title": "Dinosaur",
+    "items": [
+      { "answer": "head", "image": "dino/images/head.png" },
+      { "answer": "tail", "image": "dino/images/tail.png" }
+    ],
+    "clearImage": "dino/images/clear/clear.png"
+  }
+}
